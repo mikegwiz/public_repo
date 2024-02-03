@@ -1,0 +1,4 @@
+folium==0.15.1
+geopandas==0.14.2
+pandas==2.2.0
+Requests==2.31.0
